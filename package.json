@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-arcgis-lacounty",
+  "version": "0.1.0",
+  "description": "Los Angeles County GIS — LA County, California open geospatial data (ArcGIS).",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "arcgis-lacounty"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-arcgis-lacounty"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
