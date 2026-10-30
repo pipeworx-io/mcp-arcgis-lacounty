@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-lacounty",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Los Angeles County GIS — LA County, California open geospatial data (ArcGIS).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "arcgis-lacounty",
     "gatewaySlug": "arcgis-lacounty",
-    "sourceHash": "v1-bf9d193d8fca7720b7eda97d409980c5717a1343f655e5fc0112e79de7ff5b7e",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-9a61ad003ac057d7aedffe2dd13963e9ac97b0e8325bfcc2052664c650064379",
+    "sourceCommit": "aef970216f5309cdd22a27ddfc275e472aaadac1"
   }
 }
